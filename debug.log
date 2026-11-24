@@ -1,0 +1,13 @@
+[1124/212243.018:ERROR:content\browser\gpu\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741515
+[1124/212243.018:WARNING:content\browser\gpu\gpu_process_host.cc:1501] The GPU process has crashed 1 time(s)
+[1124/212244.153:ERROR:content\browser\gpu\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741515
+[1124/212244.153:WARNING:content\browser\gpu\gpu_process_host.cc:1501] The GPU process has crashed 2 time(s)
+[1124/212244.642:ERROR:content\browser\gpu\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741515
+[1124/212244.642:WARNING:content\browser\gpu\gpu_process_host.cc:1501] The GPU process has crashed 3 time(s)
+[1124/212245.253:ERROR:content\browser\gpu\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741515
+[1124/212245.254:WARNING:content\browser\gpu\gpu_process_host.cc:1501] The GPU process has crashed 4 time(s)
+[1124/212245.825:ERROR:content\browser\gpu\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741515
+[1124/212245.825:WARNING:content\browser\gpu\gpu_process_host.cc:1501] The GPU process has crashed 5 time(s)
+[1124/212246.337:ERROR:content\browser\gpu\gpu_process_host.cc:1042] GPU process exited unexpectedly: exit_code=-1073741515
+[1124/212246.337:WARNING:content\browser\gpu\gpu_process_host.cc:1501] The GPU process has crashed 6 time(s)
+[1124/212246.338:FATAL:content\browser\gpu\gpu_data_manager_impl_private.cc:385] GPU process isn't usable. Goodbye.
